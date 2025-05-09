@@ -1,0 +1,7 @@
+en:
+  label: English
+  icon:  # optional
+fr:
+  label: Français
+pt:
+  label: Portuguese
