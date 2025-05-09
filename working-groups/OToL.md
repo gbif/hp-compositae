@@ -2,7 +2,7 @@
 layout: heroImage
 lang-ref: OToL
 title: OToL Phylogeny  Working Group
-background: /assets/images/circle_phylo.jpg
+background: https://placehold.co/1800x600
 description: Curating a community consensus phylogeny of the compositaes
 height: 70vh
 toc: true

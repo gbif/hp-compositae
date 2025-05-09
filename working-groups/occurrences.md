@@ -2,7 +2,7 @@
 layout: heroImage
 title: Compositae Occurrences Working Group
 lang-ref: occurrences
-background: /assets/images/map.png
+background: https://placehold.co/1800x600
 description: Assembling a global, expert-verified species occurrence dataset for family Leguminosae
 height: 70vh
 toc: true

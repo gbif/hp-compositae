@@ -6,7 +6,7 @@ composition:
   - type: pageMarkdown
 title: Duparquetioideae
 lang-ref: duparquetioideae
-background: /assets/images/Duparquetia_orchidacea_84241825.jpeg
+background: https://placehold.co/1800x600
 imageLicense: |
   *Duparquetia orchidaceae* Baill. Photo by Carel Jongkind via [iNaturalist](https://www.gbif.org/occurrence/28187131755)
 description: Information about subfamily Duparquetioideae 

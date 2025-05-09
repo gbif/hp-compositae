@@ -6,7 +6,7 @@ composition:
   - type: pageMarkdown
 title: Dialioideae
 lang-ref: dialioideae
-background: /assets/images/Baudouinia_fluggeiformis_1933538708.jpeg
+background: https://placehold.co/1800x600
 imageLicense: |
   *Baudouinia fluggeiformis* Baill. Photo by Romer Rabarijaona via [iNaturalist](https://www.gbif.org/occurrence/1933538708)
 description: Information about subfamily Dialioideae 

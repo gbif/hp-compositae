@@ -9,7 +9,7 @@ description: |
     <a href="#phylogenetic-exploration-of-gbif-data" class="button is-primary" style="text-decoration: none;">Learn more</a>
     <button class="button" onClick="openWidgetInFullscreen()">Fullscreen</button>
   </div>
-background: /assets/images/abarema_cochliocarpum_lpq15538_pods11_x.jpg
+background: https://placehold.co/1800x600
 imageLicense: |
   *Abarema cochliacarpos (Caesalpinioideae) Luciano de Queiroz 15538, fruit pods, photo Colin Hughes*
 height: 50vh

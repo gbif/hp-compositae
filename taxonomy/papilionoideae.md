@@ -7,7 +7,7 @@ composition:
 title: Papilionoideae
 lang-ref: papilionoideae
 lang: en
-background: /assets/images/Clianthus_puniceus_37457361.jpeg
+background: https://placehold.co/1800x600
 imageLicense: |
   *Clianthus_puniceus* Lindl. Photo by Diane Vallienne via [iNaturalist](https://www.gbif.org/occurrence/2557746015)|
 description: Information about subfamily Papilionoideae 

@@ -4,7 +4,7 @@ lang: en
 lang-ref: about
 title: About Compositaes 
 description: The Family and the Community
-background: /assets/images/Vachellia_inflor_inaturalist12436165.jpg
+background: https://placehold.co/1800x600
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh

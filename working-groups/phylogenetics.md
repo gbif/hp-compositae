@@ -2,7 +2,7 @@
 layout: heroImage
 lang-ref: phylogenetics
 title: Compositae Phylogenomics & Phylogenetics Working Group
-background: /assets/images/phylos.jpg
+background: https://placehold.co/1800x600
 description: Information about the Compositae Phylogenomics & Phylogenetics Working Group
 height: 70vh
 toc: true

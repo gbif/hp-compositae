@@ -3,7 +3,7 @@ layout: heroImage
 lang-ref: taxonomy
 lang: en
 title: Compositae Taxonomy Working Group
-background: /assets/images/taxonomy.png
+background: https://placehold.co/1800x600
 description: Develop one universally accepted list of compositae species names!
 height: 70vh
 toc: true

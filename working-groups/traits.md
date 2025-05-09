@@ -2,7 +2,7 @@
 layout: heroImage
 lang-ref: traits
 title: Compositae Traits Working Group
-background: /assets/images/traits.png
+background: https://placehold.co/1800x600
 description: Unravelling compositae morphological diversity
 height: 70vh
 toc: true

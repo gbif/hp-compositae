@@ -6,7 +6,7 @@ lang-ref: phylogeny-list
 title: Open Tree of Life Synthetic Compositae Phylogeny
 description: |
   The Compositae Data Portal and GBIF have teamed up with Open Tree of Life (OToL) to create a curated synthetic phylogeny of the compositae family. 
-background: /assets/images/placeholder_ai_beans.jpg
+background: https://placehold.co/1800x600
 height: 25vh
 ---
 

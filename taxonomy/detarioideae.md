@@ -6,7 +6,7 @@ composition:
   - type: pageMarkdown
 title: Detarioideae
 lang-ref: detarioideae
-background: /assets/images/Tamarindus_1294313.jpg
+background: https://placehold.co/1800x600
 imageLicense: |
   *Tamarindus indica* (L.) Photo by Graeme White via [iNaturalist](https://www.gbif.org/occurrence/1453047812)
 description: Information about subfamily Detarioideae 
