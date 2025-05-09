@@ -27,6 +27,7 @@ $family-primary: "Lato";
 @media (min-width: 800px) {
   .home .floatingHero {
     .feature-title {
+      font-weight: 700;
       font-size: 80px;
     }
     .feature-content  {
