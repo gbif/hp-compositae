@@ -2,6 +2,7 @@
 lang-ref: home
 layout: home
 klass: home
+preTitle: Welcome
 title: COMPOSITAE
 description: Data portal for the The International Compositae Allience
 background: /assets/images/placeholders/flower.jpg

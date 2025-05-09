@@ -10,6 +10,9 @@ $family-primary: "Lato";
 
 .home .floatingHero {
   border-bottom: 1px solid #eee;
+  .feature-pre-title,.feature-description {
+    font-size: 1.5rem;
+  }
   .feature-title {
     font-weight: 500;
     font-size: 40px;
