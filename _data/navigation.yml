@@ -2,29 +2,25 @@
 
 - text: About
   href: /about
+- text: Capitulum
+  href: /capitulum
+- text: GCC
+  href: /gcc
+- text: TICATalks
+  href: /ticatalks
 - text: Occurrences
   href: /occurrence/search?view=map
-- text: Taxonomy
-  href: /taxonomy
-  menu: #Dropdown menu
-  - text: Accepted Species List and Synonyms
-    href: /taxonomy/species-list 
-  - text: Browse
-    href: /taxonomy/browse
-  - text: Advanced search
-    href: /taxonomy/search
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: Cercidoideae
-    href: /taxonomy/cercidoideae
-  - text: Detarioideae
-    href: /taxonomy/detarioideae
-  - text: Duparquetioideae
-    href: /taxonomy/duparquetioideae
-  - text: Dialioideae
-    href: /taxonomy/dialioideae
-  - text: Caesalpinioideae
-    href: /taxonomy/caesalpinioideae
-  - text: Papilionoideae
-    href: /taxonomy/papilionoideae
+#- text: Taxonomy
+#  href: /taxonomy
+#  menu: #Dropdown menu
+#  - text: Accepted Species List and Synonyms
+#    href: /taxonomy/species-list 
+#  - text: Browse
+#    href: /taxonomy/browse
+#  - text: Advanced search
+#    href: /taxonomy/search
+  #- text: "---" # Divider to separate blocks of menu items (at least 3 "-")
 - text: News
   href: /news/
+- text: Members
+  href: /members/
