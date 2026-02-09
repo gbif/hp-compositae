@@ -11,4 +11,4 @@ height: 70vh
 toc: true
 ---
 
-TICA Talks is a venue for bringing together fellow synantherologists from across the world in a monthly virtual symposium of all things Compositae (and yes, it is ok to call it Asteraceae). TICA Talks features a main talk (30-40 min) and one or two lightning talks (5 min) though the structure is flexible. If you are interested in giving a talk or attending a talk, please click the appropriate buttons down below. Talks are recorded and posted on the TICA youtube channel.
+TICA Talks is a venue for bringing together fellow synantherologists from across the world in a monthly virtual symposium of all things Compositae (and yes, it is ok to call it Asteraceae). TICA Talks features one or multiple talks per session. If you are interested in giving a talk or attending a talk, please contact us. Talks are recorded and posted on the [TICA YouTube channel](https://www.youtube.com/@theinternationalcompositae2637).
