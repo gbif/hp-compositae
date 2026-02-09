@@ -5,7 +5,7 @@
 columns:
   - name: Partners
     description: |
-      This portal is a project of the Compositae Phylogeny Working Group (LPWG), with the support of [Canadensys](http://www.canadensys.net/) and [GBIF](https://www.gbif.org/).
+      This portal is a project of the The International Compositae Alliance (TICA), with the support of [Canadensys](http://www.canadensys.net/) and [GBIF](https://www.gbif.org/).
 
   - name: Code
     description: | # Can be Markdown
@@ -15,7 +15,7 @@ columns:
 
   - name: Contact
     description: | # Can be Markdown
-      * [Email](mailto:compositaephylogenywg@gmail.com)
+      * [Email](mailto:info@composite.org)
     connectIcons: true
 other: |
   [Privacy policy](/privacy)
