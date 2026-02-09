@@ -3,7 +3,7 @@ layout: heroImage
 lang: en
 lang-ref: about
 title: About Compositae 
-description: The Family and the Community
+description: Everywhere but Antarctica
 background: https://placehold.co/1800x600
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
