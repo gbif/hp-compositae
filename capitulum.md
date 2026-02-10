@@ -20,6 +20,6 @@ CAPITULUM is the new version of what was previously known as Compositae Newslett
 ## Volume 4
 ### Issue 1 | November 2025
 
-[![image](/assets/images/capitulum_v4_1_november2025_ni.png)[http://dx.doi.org/10.53875/capitulum.04.1]]
+[![Vol4Issue1 cover](/assets/images/capitulum_v4_1_november2025_ni.png)](http://dx.doi.org/10.53875/capitulum.04.1)
 
-#[**Access here**](http://dx.doi.org/10.53875/capitulum.04.1)
+
