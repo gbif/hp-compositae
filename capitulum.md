@@ -29,7 +29,7 @@ CAPITULUM is the new version of what was previously known as Compositae Newslett
 
 ### Issue 1 | September 2023
 
-[![Vol3Issue1 cover](/assets/images/capitulum_v3_1_september2023.png)](http://dx.doi.org/10.53875/capitulum.03.1)
+[![Vol3Issue1 cover](/assets/images/capitulum_v3_1_september2023_s.png)](http://dx.doi.org/10.53875/capitulum.03.1)
 
 ## Volume 2
 ### Issue 2 | March 2023
