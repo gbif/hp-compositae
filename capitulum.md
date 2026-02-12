@@ -27,7 +27,6 @@ CAPITULUM is the new version of what was previously known as Compositae Newslett
 
 [![Vol3Issue2 cover](/assets/images/capitulum_v3_2_january2025.png)](http://dx.doi.org/10.53875/capitulum.03.2)
 
-## Volume 3
 ### Issue 1 | September 2023
 
 [![Vol3Issue1 cover](/assets/images/capitulum_v3_1_september2023.png)](http://dx.doi.org/10.53875/capitulum.03.1)
@@ -37,17 +36,15 @@ CAPITULUM is the new version of what was previously known as Compositae Newslett
 
 [![Vol2Issue2 cover](/assets/images/capitulum_v2_2_march2023_.png)](http://dx.doi.org/10.53875/capitulum.02.2)
 
-## Volume 2
 ### Issue 1 | August 2022
 
-[![Vol2Issue1 cover](/assets/images/capitulum_v2_august2022.png)](http://dx.doi.org/10.53875/capitulum.02.1)
+[![Vol2Issue1 cover](/assets/images/capitulum_v2_aug2022.png)](http://dx.doi.org/10.53875/capitulum.02.1)
 
 ## Volume 1
 ### Issue 2 | January 2022
 
 [![Vol1Issue2 cover](/assets/images/capitulum_v1_2_jan2022i.png)](http://dx.doi.org/10.53875/capitulum.01.2)
 
-## Volume 1
 ### Issue 1 | July 2021
 
 [![Vol1Issue1 cover](/assets/images/capitulum_v1_jul2021.jpg)](http://dx.doi.org/10.53875/capitulum.01.1)
