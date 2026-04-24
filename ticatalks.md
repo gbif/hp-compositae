@@ -6,8 +6,7 @@ lang-ref: about
 title: TICATalks
 description: Bringing together a world of synantherologists
 background: https://placehold.co/1800x600
-imageLicense: |
-Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+imageLicense: Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
 toc: true
 ---------
