@@ -38,159 +38,183 @@ If you are interested in giving a talk or attending a talk, please join the [mai
 
 ---
 
-# Previous talks (2021-2026)
+<style>
+.three-col {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
 
+.three-col > div {
+  width: calc(33.333% - 20px);
+}
+
+.three-col img {
+  width: 100% !important;
+  height: auto;
+  display: block;
+}
+
+.three-col p {
+  text-align: center;
+  margin-top: 5px;
+}
+</style>
+
+# Previous talks (2021-2026)
 Previous talks are recorded and posted on the [TICA YouTube channel](https://www.youtube.com/@theinternationalcompositae2637).
 
 ## 2026
 
-<p style="text-align:center;">
+<div class="three-col">
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/April13-2026_ticatalks.png" style="width:100%;"><br>
-April 2026
-</span>
+<div>
+<img src="/assets/images/April13-2026_ticatalks.png">
+<p>April 2026</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/March9-2026_ticatalks.png" style="width:100%;"><br>
-March 2026
-</span>
+<div>
+<img src="/assets/images/March9-2026_ticatalks.png">
+<p>March 2026</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/Feb9-2026_ticatalks.png" style="width:100%;"><br>
-February 2026
-</span>
+<div>
+<img src="/assets/images/Feb9-2026_ticatalks.png">
+<p>February 2026</p>
+</div>
 
-</p>
+</div>
+
 
 ## 2025
 
-<p style="text-align:center;">
+<div class="three-col">
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/December8-2025_ticatalks.png" style="width:100%;"><br>
-December 2025
-</span>
+<div>
+<img src="/assets/images/December8-2025_ticatalks.png">
+<p>December 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/November10-2025_ticatalks.png" style="width:100%;"><br>
-November 2025
-</span>
+<div>
+<img src="/assets/images/November10-2025_ticatalks.png">
+<p>November 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/October13-2025_ticatalks.png" style="width:100%;"><br>
-October 2025
-</span>
+<div>
+<img src="/assets/images/October13-2025_ticatalks.png">
+<p>October 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/September8-2025_ticatalks.png" style="width:100%;"><br>
-September 2025
-</span>
+<div>
+<img src="/assets/images/September8-2025_ticatalks.png">
+<p>September 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/August11-2025_ticatalks.png" style="width:100%;"><br>
-August 2025
-</span>
+<div>
+<img src="/assets/images/August11-2025_ticatalks.png">
+<p>August 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/July14-2025_ticatalks.png" style="width:100%;"><br>
-July 2025
-</span>
+<div>
+<img src="/assets/images/July14-2025_ticatalks.png">
+<p>July 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/June9-2025_ticatalks.png" style="width:100%;"><br>
-June 2025
-</span>
+<div>
+<img src="/assets/images/June9-2025_ticatalks.png">
+<p>June 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/May12-2025_ticatalks.png" style="width:100%;"><br>
-May 2025
-</span>
+<div>
+<img src="/assets/images/May12-2025_ticatalks.png">
+<p>May 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/April14-2025_ticatalks.png" style="width:100%;"><br>
-April 2025
-</span>
+<div>
+<img src="/assets/images/April14-2025_ticatalks.png">
+<p>April 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/March10-2025_ticatalks.png" style="width:100%;"><br>
-March 2025
-</span>
+<div>
+<img src="/assets/images/March10-2025_ticatalks.png">
+<p>March 2025</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/Feb24-2025_ticatalks.png" style="width:100%;"><br>
-February 2025
-</span>
+<div>
+<img src="/assets/images/Feb24-2025_ticatalks.png">
+<p>February 2025</p>
+</div>
 
-</p>
+</div>
 
-## 2021-2022
 
-<p style="text-align:center;">
+## 2021–2022
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks_jun22-1.png" style="width:100%;"><br>
-June 2022
-</span>
+<div class="three-col">
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks_may22-1.png" style="width:100%;"><br>
-May 2022
-</span>
+<div>
+<img src="/assets/images/ticatalks_jun22-1.png">
+<p>June 2022</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks.mar22-1.png" style="width:100%;"><br>
-March 2022
-</span>
+<div>
+<img src="/assets/images/ticatalks_may22-1.png">
+<p>May 2022</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks.november-1.png" style="width:100%;"><br>
-November 2021
-</span>
+<div>
+<img src="/assets/images/ticatalks.mar22-1.png">
+<p>March 2022</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks.october-1.png" style="width:100%;"><br>
-October 2021
-</span>
+<div>
+<img src="/assets/images/ticatalks.november-1.png">
+<p>November 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks.sept-1.png" style="width:100%;"><br>
-September 2021
-</span>
+<div>
+<img src="/assets/images/ticatalks.october-1.png">
+<p>October 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks.Aug.jpg" style="width:100%;"><br>
-August 2021
-</span>
+<div>
+<img src="/assets/images/ticatalks.sept-1.png">
+<p>September 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/ticatalks.Jun21-1.png" style="width:100%;"><br>
-June 2021
-</span>
+<div>
+<img src="/assets/images/ticatalks.Aug.jpg">
+<p>August 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/May17th.ticatalks-1.png" style="width:100%;"><br>
-May 2021
-</span>
+<div>
+<img src="/assets/images/ticatalks.Jun21-1.png">
+<p>June 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/Apr19_ticatalks-1.png" style="width:100%;"><br>
-April 2021
-</span>
+<div>
+<img src="/assets/images/May17th.ticatalks-1.png">
+<p>May 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/Mar22_ticatalks-1.png" style="width:100%;"><br>
-March 2021
-</span>
+<div>
+<img src="/assets/images/Apr19_ticatalks-1.png">
+<p>April 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/Feb22nd_ticatalks-1.png" style="width:100%;"><br>
-February 2021
-</span>
+<div>
+<img src="/assets/images/Mar22_ticatalks-1.png">
+<p>March 2021</p>
+</div>
 
-<span style="display:inline-block; width:30%; margin:1%;">
-<img src="/assets/images/25th_jan_ticatalks.png" style="width:100%;"><br>
-January 2021
-</span>
+<div>
+<img src="/assets/images/Feb22nd_ticatalks-1.png">
+<p>February 2021</p>
+</div>
 
-</p>
+<div>
+<img src="/assets/images/25th_jan_ticatalks.png">
+<p>January 2021</p>
+</div>
+
+</div>
