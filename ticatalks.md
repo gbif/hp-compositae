@@ -1,5 +1,4 @@
 ---
-
 layout: heroImage
 lang: en
 lang-ref: about
@@ -15,205 +14,117 @@ toc: true
 
 TICA Talks is a venue for bringing together fellow synantherologists from across the world in a monthly virtual symposium of all things Compositae (and yes, it is ok to call it Asteraceae). TICA Talks occur on the second Monday of every month at 11am Pacific Time (PT). Each month has two to three speakers presenting their research in Compositae.
 
+
+
 If you are interested in giving a talk or attending a talk, please join the [mailing list](https://forms.gle/KfQg5L7diWFZjUKS9) or [contact us](ticaseminarseries@gmail.com).
 
 ## Current TICA Talks committee members (2026):
 
 **[Fabio Andrés Ávila](favila@nybg.org)** (New York Botanical Garden, USA)
+
 **[Dr. Carme Blanco Gavaldà](carme.blancogavalda@gmail.com)** (Universitat Autònoma de Barcelona, Spain)
+
 **[Dr. Colin Hoag](choag@smith.edu)** (Smith College, USA)
+
 **[Dr. Abby Moore](abigail.j.moore@ou.edu)** (University of Oklahoma, USA)
+
 **[Dr. Erika R. Moore-Pollard](moore.erika.r@gmail.com)** (University of Connecticut, USA)
 
-# TICA Talks 2026
 
+# TICA Talks 2026
 ![2026Flyer](/assets/images/TICATalks2026_ScheduleFlyer_v1.png)
 
+
 ## Our next TICA Talks webinar...
-
 ### Monday, ___, 2026 at 11am PST
-
 ![July2026Flyer](/assets/images/July13-2026_ticatalks.png)
 
----
-
-<style>
-.three-col {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
-
-.three-col > div {
-  width: calc(33.333% - 20px);
-}
-
-.three-col img {
-  width: 100% !important;
-  height: auto;
-  display: block;
-}
-
-.three-col p {
-  text-align: center;
-  margin-top: 5px;
-}
-</style>
-
-# Previous talks (2021-2026)
+# Previous talks (2021-2026) 
 Previous talks are recorded and posted on the [TICA YouTube channel](https://www.youtube.com/@theinternationalcompositae2637).
 
 ## 2026
+### April 2026
+![April2026Flyer](/assets/images/April13-2026_ticatalks.png)
 
-<div class="three-col">
+### March 2026
+![March2026Flyer](/assets/images/March9-2026_ticatalks.png)
 
-<div>
-<img src="/assets/images/April13-2026_ticatalks.png">
-<p>April 2026</p>
-</div>
-
-<div>
-<img src="/assets/images/March9-2026_ticatalks.png">
-<p>March 2026</p>
-</div>
-
-<div>
-<img src="/assets/images/Feb9-2026_ticatalks.png">
-<p>February 2026</p>
-</div>
-
-</div>
+### February 2026
+![February2026Flyer](/assets/images/Feb9-2026_ticatalks.png)
 
 
 ## 2025
+### December 2025
+![DecemberFlyer](/assets/images/December8-2025_ticatalks.png)
 
-<div class="three-col">
+### November 2025
+![NovemberFlyer](/assets/images/November10-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/December8-2025_ticatalks.png">
-<p>December 2025</p>
-</div>
+### October 2025
+![OctoberFlyer](/assets/images/October13-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/November10-2025_ticatalks.png">
-<p>November 2025</p>
-</div>
+### September 2025
+![SeptemberFlyer](/assets/images/September8-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/October13-2025_ticatalks.png">
-<p>October 2025</p>
-</div>
+### August 2025
+![AugustFlyer](/assets/images/August11-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/September8-2025_ticatalks.png">
-<p>September 2025</p>
-</div>
+### July 2025
+![JulyFlyer](/assets/images/July14-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/August11-2025_ticatalks.png">
-<p>August 2025</p>
-</div>
+### June 2025
+![JuneFlyer](/assets/images/June9-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/July14-2025_ticatalks.png">
-<p>July 2025</p>
-</div>
+### May 2025
+![MayFlyer](/assets/images/May12-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/June9-2025_ticatalks.png">
-<p>June 2025</p>
-</div>
+### April 2025
+![AprilFlyer](/assets/images/April14-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/May12-2025_ticatalks.png">
-<p>May 2025</p>
-</div>
+### March 2025
+![MarchFlyer](/assets/images/March10-2025_ticatalks.png)
 
-<div>
-<img src="/assets/images/April14-2025_ticatalks.png">
-<p>April 2025</p>
-</div>
-
-<div>
-<img src="/assets/images/March10-2025_ticatalks.png">
-<p>March 2025</p>
-</div>
-
-<div>
-<img src="/assets/images/Feb24-2025_ticatalks.png">
-<p>February 2025</p>
-</div>
-
-</div>
+### February 2025
+![FebruaryFlyer](/assets/images/Feb24-2025_ticatalks.png)
 
 
-## 2021–2022
+## 2021-2022
 
-<div class="three-col">
+### June 2022
+![June2022Flyer](/assets/images/ticatalks_jun22-1.png)
 
-<div>
-<img src="/assets/images/ticatalks_jun22-1.png">
-<p>June 2022</p>
-</div>
+### May 2022
+![May2022Flyer](/assets/images/ticatalks_may22-1.png)
 
-<div>
-<img src="/assets/images/ticatalks_may22-1.png">
-<p>May 2022</p>
-</div>
+### March 2022
+![March2022Flyer](/assets/images/ticatalks.mar22-1.png)
 
-<div>
-<img src="/assets/images/ticatalks.mar22-1.png">
-<p>March 2022</p>
-</div>
+### November 2021
+![November2021Flyer](/assets/images/ticatalks.november-1.png)
 
-<div>
-<img src="/assets/images/ticatalks.november-1.png">
-<p>November 2021</p>
-</div>
+### October 2021
+![October2021Flyer](/assets/images/ticatalks.october-1.png)
 
-<div>
-<img src="/assets/images/ticatalks.october-1.png">
-<p>October 2021</p>
-</div>
+### September 2021
+![September2021Flyer](/assets/images/ticatalks.sept-1.png)
 
-<div>
-<img src="/assets/images/ticatalks.sept-1.png">
-<p>September 2021</p>
-</div>
+### August 2021
+![August2021Flyer](/assets/images/ticatalks.Aug.jpg)
 
-<div>
-<img src="/assets/images/ticatalks.Aug.jpg">
-<p>August 2021</p>
-</div>
+### June 2021
+![June2021Flyer](/assets/images/ticatalks.Jun21-1.png)
 
-<div>
-<img src="/assets/images/ticatalks.Jun21-1.png">
-<p>June 2021</p>
-</div>
+### May 2021
+![May2021Flyer](/assets/images/May17th.ticatalks-1.png)
 
-<div>
-<img src="/assets/images/May17th.ticatalks-1.png">
-<p>May 2021</p>
-</div>
+### April 2021
+![April2021Flyer](/assets/images/Apr19_ticatalks-1.png)
 
-<div>
-<img src="/assets/images/Apr19_ticatalks-1.png">
-<p>April 2021</p>
-</div>
+### March 2021
+![March2021Flyer](/assets/images/Mar22_ticatalks-1.png)
 
-<div>
-<img src="/assets/images/Mar22_ticatalks-1.png">
-<p>March 2021</p>
-</div>
+### February 2021
+![February2021Flyer](/assets/images/Feb22nd_ticatalks-1.png)
 
-<div>
-<img src="/assets/images/Feb22nd_ticatalks-1.png">
-<p>February 2021</p>
-</div>
-
-<div>
-<img src="/assets/images/25th_jan_ticatalks.png">
-<p>January 2021</p>
-</div>
-
-</div>
+### January 2021
+![January2021Flyer](/assets/images/25th_jan_ticatalks.png)
