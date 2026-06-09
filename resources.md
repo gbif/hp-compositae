@@ -25,7 +25,6 @@ Citation: Funk, V.A., Susanna, A., Stuessy, T.F. & Bayer, R.J. 2009. Systematics
 ### TICA workshop at Botany 2021
 During Botany 2021, TICA organized a Compositae Workshop attended by over 20 people. You can access the 18 lectures through the following links:
 
-<div style="margin-left: 2em;">
 
 Introduction to the Compositae &#124; M. Bonifacino &#124; [YouTube](https://youtu.be/egFTo9kCZi8)  
 
@@ -80,4 +79,3 @@ Eupatorieae &#124; E. Schilling &#124; [YouTube](https://youtu.be/OU1V8qCXgP0)
 
 Phylogeny of Compositae &#124; J. Mandel &#124; [YouTube](https://youtu.be/Cfpql7Pnzbk)  
 
-</div>
