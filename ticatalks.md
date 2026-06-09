@@ -21,15 +21,15 @@ If you are interested in giving a talk or attending a talk, please join the [mai
 
 ## Current TICA Talks committee members (2026):
 
-**[Fabio Andrés Ávila](favila@nybg.org)** (New York Botanical Garden, USA)
+**Fabio Andrés Ávila** [[email]](favila@nybg.org) (New York Botanical Garden, USA)
 
-**[Dr. Carme Blanco Gavaldà](carme.blancogavalda@gmail.com)** (Universitat Autònoma de Barcelona, Spain)
+**Dr. Carme Blanco Gavaldà** [[email]](carme.blancogavalda@gmail.com) (Universitat Autònoma de Barcelona, Spain)
 
-**[Dr. Colin Hoag](choag@smith.edu)** (Smith College, USA)
+**Dr. Colin Hoag** [[email]](choag@smith.edu) (Smith College, USA)
 
-**[Dr. Abby Moore](abigail.j.moore@ou.edu)** (University of Oklahoma, USA)
+**Dr. Abby Moore** [[email]](abigail.j.moore@ou.edu) (University of Oklahoma, USA)
 
-**[Dr. Erika R. Moore-Pollard](moore.erika.r@gmail.com)** (University of Connecticut, USA)
+**Dr. Erika R. Moore-Pollard** [[email]](moore.erika.r@gmail.com) (University of Connecticut, USA)
 
 
 # TICA Talks 2026
@@ -38,13 +38,19 @@ If you are interested in giving a talk or attending a talk, please join the [mai
 
 
 ## Our next TICA Talks webinar...
-### Monday, ___, 2026 at 11am PST
-![July2026Flyer](/assets/images/July13-2026_ticatalks.png)
+### Monday, July 13, 2026 at 11am PT!  
+
 
 # Previous talks (2021-2026) 
 Previous talks are recorded and posted on the [TICA YouTube channel](https://www.youtube.com/@theinternationalcompositae2637).
 
 ## 2026
+### June 2026
+![June2026Flyer](/assets/images/June8-2026_ticatalks.png)
+
+### May 2026
+![May2026Flyer](/assets/images/May11-2026_ticatalks.png)
+
 ### April 2026
 ![April2026Flyer](/assets/images/April13-2026_ticatalks.png)
 

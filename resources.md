@@ -25,57 +25,59 @@ Citation: Funk, V.A., Susanna, A., Stuessy, T.F. & Bayer, R.J. 2009. Systematics
 ### TICA workshop at Botany 2021
 During Botany 2021, TICA organized a Compositae Workshop attended by over 20 people. You can access the 18 lectures through the following links:
 
+<div style="margin-left: 2em;">
 
-Introduction to the Compositae | M. Bonifacino | [YouTube](https://youtu.be/egFTo9kCZi8)  
-
-
-Introduction to the Microcharacters | M. Bonifacino | [YouTube](https://youtu.be/vtrfhuSRVus)  
+Introduction to the Compositae &#124; M. Bonifacino &#124; [YouTube](https://youtu.be/egFTo9kCZi8)  
 
 
-Barnadesieae | M. Bonifacino | [YouTube](https://youtu.be/lQBuQ7RwHMw)  
+Introduction to the Microcharacters &#124; M. Bonifacino &#124; [YouTube](https://youtu.be/vtrfhuSRVus)  
 
 
-Nassauvieae & Mutisieae | Liliana Katinas | [YouTube](https://youtu.be/GHvAtX2Ucx4)  
+Barnadesieae &#124; M. Bonifacino &#124; [YouTube](https://youtu.be/lQBuQ7RwHMw)  
 
 
-Gochnatieae | G. Sancho | [YouTube](https://youtu.be/mcgXHK7RPcI)  
+Nassauvieae & Mutisieae &#124; Liliana Katinas &#124; [YouTube](https://youtu.be/GHvAtX2Ucx4)  
 
 
-Miscelaneous small tribes | G. Heiden | [PDF](https://github.com/gbif/hp-compositae/tree/master/assets/pdfs/heiden_miscelaneous_small_tribes_talk_2021.pdf)  
+Gochnatieae &#124; G. Sancho &#124; [YouTube](https://youtu.be/mcgXHK7RPcI)  
 
 
-Vernonieae | B. Loeuille | [YouTube](https://youtu.be/Jrlel_ApE0k)  
+Miscelaneous small tribes &#124; G. Heiden &#124; [PDF](https://github.com/gbif/hp-compositae/tree/master/assets/pdfs/heiden_miscelaneous_small_tribes_talk_2021.pdf)  
 
 
-Cichorieae | M. Bonifacino | [YouTube](https://youtu.be/O_enAXS1cAg)  
+Vernonieae &#124; B. Loeuille &#124; [YouTube](https://youtu.be/Jrlel_ApE0k)  
 
 
-Gnaphalieae | N. Bergh | [YouTube](https://youtu.be/4e5zTNGw80s)  
+Cichorieae &#124; M. Bonifacino &#124; [YouTube](https://youtu.be/O_enAXS1cAg)  
 
 
-Senecioneae | M. Bonifacino | [YouTube](https://youtu.be/5KpMLAG7ISc)  
+Gnaphalieae &#124; N. Bergh &#124; [YouTube](https://youtu.be/4e5zTNGw80s)  
 
 
-Astereae | G. Heiden | [PDF](https://github.com/gbif/hp-compositae/tree/master/assets/pdfs/heiden_astereae_talk_2021.pdf)  
+Senecioneae &#124; M. Bonifacino &#124; [YouTube](https://youtu.be/5KpMLAG7ISc)  
 
 
-Inuleae | M. Monge | [YouTube](https://youtu.be/JCnoDrLNH-Y)  
+Astereae &#124; G. Heiden &#124; [PDF](https://github.com/gbif/hp-compositae/tree/master/assets/pdfs/heiden_astereae_talk_2021.pdf)  
 
 
-Anthemideae | C. Oberprieler | [PDF](https://github.com/gbif/hp-compositae/tree/master/assets/pdfs/oberprieler_anthemideae_talk_2021.pdf)  
+Inuleae &#124; M. Monge &#124; [YouTube](https://youtu.be/JCnoDrLNH-Y)  
 
 
-Heliantheae, Coreopsideae, Millerieae | B. Baldwin | [YouTube](https://youtu.be/WJJpqUYuMBE)  
+Anthemideae &#124; C. Oberprieler &#124; [PDF](https://github.com/gbif/hp-compositae/tree/master/assets/pdfs/oberprieler_anthemideae_talk_2021.pdf)  
 
 
-Helenieae, Tageteae, Chaenactideae, Bahieae | B. Baldwin | [YouTube](https://youtu.be/ErbMAvYIHs0)  
+Heliantheae, Coreopsideae, Millerieae &#124; B. Baldwin &#124; [YouTube](https://youtu.be/WJJpqUYuMBE)  
 
 
-Madieae, Perityleae | B. Baldwin | [YouTube](https://youtu.be/vYLfxR1IQx0)  
+Helenieae, Tageteae, Chaenactideae, Bahieae &#124; B. Baldwin &#124; [YouTube](https://youtu.be/ErbMAvYIHs0)  
 
 
-Eupatorieae | E. Schilling | [YouTube](https://youtu.be/OU1V8qCXgP0)  
+Madieae, Perityleae &#124; B. Baldwin &#124; [YouTube](https://youtu.be/vYLfxR1IQx0)  
 
 
-Phylogeny of Compositae | J. Mandel | [YouTube](https://youtu.be/Cfpql7Pnzbk)  
+Eupatorieae &#124; E. Schilling &#124; [YouTube](https://youtu.be/OU1V8qCXgP0)  
 
+
+Phylogeny of Compositae &#124; J. Mandel &#124; [YouTube](https://youtu.be/Cfpql7Pnzbk)  
+
+</div>
