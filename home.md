@@ -33,7 +33,7 @@ composition:
     data: examples.couldBeAnyName
 parallax: true
 navbar: 
-  floating: true
+  floating: false
 ---
 
 
