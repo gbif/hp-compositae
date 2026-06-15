@@ -20,8 +20,8 @@ cta:
   - text: Occurrence Data
     href: /occurrence/search?view=map
     isPrimary: true
-  - text: Taxonomy
-    href: /taxonomy/species-list
+  #- text: Taxonomy
+  # href: /taxonomy/species-list
   - text: About
     href: /about
 permalink: /
