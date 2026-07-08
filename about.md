@@ -4,9 +4,9 @@ lang: en
 lang-ref: about
 title: About Compositae 
 description: Everywhere but Antarctica
-background: https://placehold.co/1800x600
+background: /assets/images/map.png
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Prepared by Carolina Siniscalchi with CC0 or CC-BY images from [iNaturalist](https://www.inaturalist.org/)
 height: 70vh
 toc: true
 ---

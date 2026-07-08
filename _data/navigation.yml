@@ -22,7 +22,7 @@
   #- text: "---" # Divider to separate blocks of menu items (at least 3 "-")
 - text: News
   href: /news/
-- text: Members
-  href: /members/
+#- text: Members
+#  href: /members/
 - text: Resources
   href: /resources/
