@@ -4,7 +4,7 @@ lang: en
 lang-ref: about
 title: About Compositae 
 description: Everywhere but Antarctica
-background: /assets/images/map.png
+background: /assets/images/pageheaders/map.png
 imageLicense: |
   Prepared by Carolina Siniscalchi with CC0 or CC-BY images from [iNaturalist](https://www.inaturalist.org/)
 height: 70vh
