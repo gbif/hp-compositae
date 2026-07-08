@@ -4,7 +4,7 @@ lang: en
 lang-ref: about
 title: Capitulum 
 description: The TICA Newsletter
-background: /assets/images/pageheaders/capitulum_header.jpg
+background: /assets/images/pageheaders/capitulum_header.JPG
 imageLicense: |
   Photo by Carolina Siniscalchi
 height: 70vh

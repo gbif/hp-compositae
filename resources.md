@@ -4,7 +4,7 @@ lang: en
 lang-ref: about
 title: Resources 
 description: Everywhere but Antarctica
-background: /assets/images/pageheaders/resources.jpg
+background: /assets/images/pageheaders/resources.JPG
 imageLicense: |
   Photo by Vicki Funk
 height: 70vh
