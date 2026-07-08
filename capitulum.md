@@ -4,9 +4,9 @@ lang: en
 lang-ref: about
 title: Capitulum 
 description: The TICA Newsletter
-background: https://placehold.co/1800x600
+background: /assets/images/pageheaders/capitulum_header.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Photo by Carolina Siniscalchi
 height: 70vh
 toc: true
 ---

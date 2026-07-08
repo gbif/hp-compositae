@@ -4,9 +4,9 @@ lang: en
 lang-ref: about
 title: GCD 
 description: The Global Compositae Database
-background: https://placehold.co/1800x600
+background: /assets/images/pageheaders/GCD.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Logo by Mauricio Bonifacino
 height: 70vh
 toc: true
 ---
